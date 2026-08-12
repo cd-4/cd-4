@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello
 
-<!--
-**cd-4/cd-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Charlie Dudzik, I currently work as an Software Infrastructure Engineer / DevOps / Platform Engineer. I do a lot of development in my free time from video games to iOS apps. From Rhode Island, but I live in Fort Worth, Texas now.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, C++, Bash, SQL, Rust, Swift, Javascript
+Cloud & Infrastructure: Azure, Kubernetes, Helm, Pulumi, Terraform, Docker
+Devops & Tooling: GitHub Actions, Git, CI/CD Pipelines
+Other: Networking, DNS, SSL/TLS, Secret Management, Infrastructure as Code (IaC)
+
+### Projects
+
+- 🍿 [Park Pop!](https://parkpop.app) - Wait time alerts for theme parks
+- 💬 [Yapitest](https://github.com/cd-4/yapitest) - API Testing CLI tool written in Rust
+- 🚀 [Orbit Express](https://orbit-express.dudzik.me/) - Space delivery game [Almost Done]
+- 🐧 Rad Penguin - SSX-like penguin game [In Progress]
+
+### Contact Me
+
+- Email: dudzikc@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/charles-dudzik/)
+- [Website](https://charlie.dudzik.me)
+
