@@ -42,6 +42,7 @@ My name is Charlie Dudzik, I currently work as an Software Infrastructure Engine
 - 🍿 [Park Pop!](https://parkpop.app) - Wait time alerts for theme parks
 - 💬 [Yapitest](https://github.com/cd-4/yapitest) - API Testing CLI tool written in Rust
 - 🚀 [Orbit Express](https://orbit-express.dudzik.me/) - Space delivery game [Almost Done]
+- 🧩 [NYT Games CLI](https://github.com/cd-4/nyt-games-py) - Play the NYT daily games in your terminal
 - 🐧 Rad Penguin - SSX-like penguin game [In Progress]
 
 ### Contact Me
