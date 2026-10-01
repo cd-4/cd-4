@@ -39,6 +39,7 @@ My name is Charlie Dudzik, I currently work as an Software Infrastructure Engine
 
 ### Projects
 
+- 🪼 [Infinigit](https://infinigit.com) - A git platform hosted on the Internet Computer blockchain
 - 🍿 [Park Pop!](https://parkpop.app) - Wait time alerts for theme parks
 - 💬 [Yapitest](https://github.com/cd-4/yapitest) - API Testing CLI tool written in Rust
 - 🚀 [Orbit Express](https://orbit-express.dudzik.me/) - Space delivery game [Almost Done]
